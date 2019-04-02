@@ -24,7 +24,7 @@ function dec(n) {
   return n;
 }
 
-n = '0*2328';
+
 function makeInt(n) {
   parseInt(n,10);
   return n;
